@@ -7,4 +7,4 @@ WELCOME TO MY FINITE ELEMENT ANALYSIS (FEA) PORTFOLIO
 - Static Structural Analysis
 - Mesh Generation & Refinement (Focusing on stress concentrations)
 - Boundary Condition Setup
-- 
+- Interpreting Von Mises Stress, Deformation, and Factor of Safety (FoS)
