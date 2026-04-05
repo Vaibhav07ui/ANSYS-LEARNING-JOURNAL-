@@ -10,4 +10,4 @@ WELCOME TO MY FINITE ELEMENT ANALYSIS (FEA) PORTFOLIO
 - Interpreting Von Mises Stress, Deformation, and Factor of Safety (FoS)
 
 - ## Weeks Logged
-- [Week 1](./Week_01.md) 
+- [Week 1](Week-1_Analysis/README.md)
