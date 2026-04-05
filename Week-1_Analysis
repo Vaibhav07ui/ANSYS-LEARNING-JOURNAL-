@@ -1,1 +1,7 @@
-g
+Week 1: Static Structural Analysis of a Beam under UDL
+Objective: To analyze the stress distribution and deformation characteristics of a structural beam subjected to a Uniformly Distributed Load (UDL).
+Boundary Conditions: * Fixed Support: Applied to restrict all degrees of freedom at the support points.
+Loading: Uniformly Distributed Load (UDL) and point Force application.
+Displacement: Defined constraints to simulate real-world mounting conditions.
+Results Obtained: * Equivalent (Von-Mises) Stress: Identified regions of maximum stress concentration to validate safety factors.
+Directional Deformation: Analyzed the vertical deflection profile of the beam under the applied load.
