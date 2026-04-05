@@ -8,3 +8,6 @@ WELCOME TO MY FINITE ELEMENT ANALYSIS (FEA) PORTFOLIO
 - Mesh Generation & Refinement (Focusing on stress concentrations)
 - Boundary Condition Setup
 - Interpreting Von Mises Stress, Deformation, and Factor of Safety (FoS)
+
+- ## Weeks Logged
+- [Week 1](./Week_01.md) 
